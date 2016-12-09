@@ -33,6 +33,7 @@ gem 'rails-controller-testing', '0.1.1'
 gem 'minitest-reporters', '1.1.9'
 gem 'guard', '2.13.0'
 gem 'guard-minitest', '2.4.4'
+gem 'bootstrap-sass'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
